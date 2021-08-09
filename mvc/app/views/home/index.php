@@ -1,0 +1,1 @@
+hellow <?=$data['name'] ?>
