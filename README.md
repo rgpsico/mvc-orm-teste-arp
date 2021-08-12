@@ -1,2 +1,2 @@
 # mvc-teste
-Treinamento MVC com Eloquent 
+Teste mvc com orm 
